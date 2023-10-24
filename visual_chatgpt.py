@@ -1,3 +1,5 @@
+
+
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT License.
 
@@ -10,8 +12,7 @@ import cv2
 import re
 import uuid
 from PIL import Image, ImageDraw, ImageOps, ImageFont
-import math
-import numpy as np
+weimport numpy as np
 import argparse
 import inspect
 import tempfile
